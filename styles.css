@@ -1,11 +1,13 @@
 * {
     line-height: 1.5;
+    font-size: 36px;
     font-family: "Shadows Into Light", monospace, Verdana, sans-serif;
 }
 
 .main-header {
     font-family: "Amatic SC", monospace, Verdana, sans-serif;
-    text-align: left;
+    text-align: center;
+    font-size: 60px;
 }
 
 .recipe-links {
@@ -14,4 +16,8 @@
 
 .body {
     background-color: white;
+}
+
+.body.index-links {
+    text-align: center;
 }
