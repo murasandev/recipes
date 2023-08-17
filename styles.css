@@ -1,0 +1,6 @@
+.main-header {
+    background-color: hsla(190, 75%, 75%, 0.25);
+    color: rgb(7, 83, 18);
+    font-family: monospace, Verdana, sans-serif;
+    text-align: center;
+}
