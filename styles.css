@@ -3,16 +3,15 @@
 }
 
 .main-header {
-    color: white;
     font-family: monospace, Verdana, sans-serif;
-    text-align: center;
+    text-align: left;
 }
 
 .recipe-links {
-    color: white;
+    color: black;
 }
 
 .body {
-    background-color: rgb(255, 0, 0);
-    text-align: center;
+    background-color: white;
+    font-family: monospace, Verdana, sans-serif;
 }
