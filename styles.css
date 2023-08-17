@@ -1,0 +1,17 @@
+* {
+    line-height: 1.5;
+    font-family: monospace, Verdana, sans-serif;
+}
+
+.main-header {
+    font-family: monospace, Verdana, sans-serif;
+    text-align: left;
+}
+
+.recipe-links {
+    color: black;
+}
+
+.body {
+    background-color: white;
+}
