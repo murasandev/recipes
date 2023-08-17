@@ -1,5 +1,6 @@
 * {
     line-height: 1.5;
+    font-family: monospace, Verdana, sans-serif;
 }
 
 .main-header {
@@ -13,5 +14,4 @@
 
 .body {
     background-color: white;
-    font-family: monospace, Verdana, sans-serif;
 }
