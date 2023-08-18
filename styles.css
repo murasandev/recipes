@@ -22,3 +22,8 @@
 .body.index-links {
     text-align: center;
 }
+
+.body.index-links a:hover {
+    background-color: black;
+    color: white;
+}
