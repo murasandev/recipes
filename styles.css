@@ -28,6 +28,7 @@ a:visited {
 display: flex;
 gap: 20px;
 justify-content: center;
+flex-wrap: wrap;
 }
 
 .recipe-container > a > div {
@@ -52,4 +53,10 @@ a:hover {
 .recipe-link img,
 .recipe-link {
     max-width: 350px;
+}
+
+.recipe-link img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
 }
