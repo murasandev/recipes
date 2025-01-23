@@ -3,6 +3,11 @@
     font-size: 36px;
     font-family: "Shadows Into Light", monospace, Verdana, sans-serif;
     box-sizing: border-box;
+    border: red solid;
+}
+
+a:visited {
+    color: black;
 }
 
 .main-header {
@@ -19,11 +24,32 @@
     background-color: white;
 }
 
-.body.index-links {
+.recipe-container {
+display: flex;
+gap: 20px;
+justify-content: center;
+}
+
+.recipe-container > a > div {
     text-align: center;
 }
 
-.body.index-links a:hover {
-    background-color: black;
-    color: white;
+.recipe-holder {
+    display: flex;
+    flex-direction: column;
+}
+
+.recipe-link div:hover {
+    background: white;
+    color: black;
+}
+
+img:hover,
+a:hover {
+    background-color: white;
+}
+
+.recipe-link img,
+.recipe-link {
+    max-width: 350px;
 }
