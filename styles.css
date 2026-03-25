@@ -60,6 +60,10 @@ a:visited {
     top: 0;
 }
 
+.header a {
+    color: black;
+}
+
 .header-list {
     display: flex;
     gap: 20px;
