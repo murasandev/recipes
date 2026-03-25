@@ -46,6 +46,10 @@ a:visited {
     background-image: url(img/horse-radish.jpeg);
 }
 
+.bg-image-shakshouka {
+    background-image: url(img/shakshouka.jpeg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
