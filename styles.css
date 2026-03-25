@@ -42,6 +42,10 @@ a:visited {
     background-image: url(img/prime-rib.jpeg);
 }
 
+.bg-image-horseradish {
+    background-image: url(img/horse-radish.jpeg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
