@@ -34,6 +34,10 @@ a:visited {
     background-image: url(img/lasagna.jpg);
 }
 
+.bg-image-smoked-ribs {
+    background-image: url(img/smoked-ribs.jpeg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
