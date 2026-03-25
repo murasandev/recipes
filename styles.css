@@ -3,14 +3,33 @@
     font-size: 36px;
     font-family: "Shadows Into Light", monospace, Verdana, sans-serif;
     box-sizing: border-box;
-    border: red solid;
+    text-decoration: none;
+    /* border: red solid; */
 }
 
 a:visited {
     color: black;
 }
 
-.main-header {
+.header {
+    /* border-style: solid; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.header-list {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.header-list a{
+    color: black;
+}
+
+.main-title {
     font-family: "Amatic SC", monospace, Verdana, sans-serif;
     text-align: center;
     font-size: 60px;
