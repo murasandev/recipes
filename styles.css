@@ -38,6 +38,10 @@ a:visited {
     background-image: url(img/smoked-ribs.jpeg);
 }
 
+.bg-image-smoked-prime-rib {
+    background-image: url(img/prime-rib.jpeg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
