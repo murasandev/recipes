@@ -26,12 +26,18 @@ a:visited {
     background-image: url(img/quinoa.jpg);
 }
 
+.bg-image-horchata {
+    background-image: url(img/horchata.jpg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
     align-items: center;
     justify-content: space-between;
     height: 50px;
+    position: sticky;
+    top: 0;
 }
 
 .header-list {
