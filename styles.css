@@ -22,6 +22,10 @@ a:visited {
     background-image: url(img/caesar.jpg);
 }
 
+.bg-image-quinoa {
+    background-image: url(img/quinoa.jpg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
