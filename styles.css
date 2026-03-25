@@ -11,6 +11,17 @@ a:visited {
     color: black;
 }
 
+/* background image styling and images */
+.bg-image-style {
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.bg-image-caesar {
+    background-image: url(img/caesar.jpg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
