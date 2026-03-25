@@ -30,6 +30,10 @@ a:visited {
     background-image: url(img/horchata.jpg);
 }
 
+.bg-image-lasagna {
+    background-image: url(img/lasagna.jpg);
+}
+
 .header {
     /* border-style: solid; */
     display: flex;
